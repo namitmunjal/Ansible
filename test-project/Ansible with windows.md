@@ -18,11 +18,10 @@
 - we need to use NTLM or Kerberos method to authenticate with the windows machine.
 - install development tools
 > sudo yum groupinstall "Development Tools"
-
 > sudo yum install krb5-server krb5-libs
-
+> sudo yum install gcc python3-devel krb5-devel -y
 > sudo yum install krb5-workstatio
-
 > pip install kerberos
+
 
 
