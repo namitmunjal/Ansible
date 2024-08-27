@@ -24,7 +24,7 @@
 
 > sudo yum install gcc python3-devel krb5-devel -y
 
-> sudo yum install krb5-workstatio
+> sudo yum install krb5-workstation
 
 > pip install kerberos
 
